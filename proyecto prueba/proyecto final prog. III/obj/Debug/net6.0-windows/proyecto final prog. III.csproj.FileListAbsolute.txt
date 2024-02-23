@@ -1,0 +1,58 @@
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.exe
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.deps.json
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.runtimeconfig.json
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.dll
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.pdb
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto_final_prog._III.Form1.resources
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.csproj.GenerateResource.cache
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.AssemblyInfoInputs.cache
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.AssemblyInfo.cs
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.csproj.CoreCompileInputs.cache
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.dll
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\refint\proyecto final prog. III.dll
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.pdb
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.genruntimeconfig.cache
+C:\Users\mery luis\OneDrive\Escritorio\PROGRAMACION III\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\ref\proyecto final prog. III.dll
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.exe
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.deps.json
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.runtimeconfig.json
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.dll
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.pdb
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto_final_prog._III.Form1.resources
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.csproj.GenerateResource.cache
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.AssemblyInfoInputs.cache
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.AssemblyInfo.cs
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.csproj.CoreCompileInputs.cache
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.dll
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\refint\proyecto final prog. III.dll
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.pdb
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.genruntimeconfig.cache
+E:\Alarms\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\ref\proyecto final prog. III.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.exe
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.deps.json
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.runtimeconfig.json
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\proyecto final prog. III.pdb
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto_final_prog._III.Form1.resources
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.csproj.GenerateResource.cache
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.AssemblyInfoInputs.cache
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.AssemblyInfo.cs
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.csproj.CoreCompileInputs.cache
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\refint\proyecto final prog. III.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.pdb
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.genruntimeconfig.cache
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\ref\proyecto final prog. III.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto_final_prog._III.frmLogin.resources
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.csproj.AssemblyReference.cache
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto final prog. III.csproj.CopyComplete
+C:\Users\WILMER MICHEL\Desktop\proyecto final prog. III\proyecto final prog. III\obj\Debug\net6.0-windows\proyecto_final_prog._III.frmRegUsuarioi.resources
